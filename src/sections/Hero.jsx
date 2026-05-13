@@ -209,8 +209,8 @@ export default function Hero() {
             {[
               { label: 'M.Sc. AI', value: 'Goa University', color: 'green' },
               { label: 'Ethical Hacker', value: 'InlignX Global', color: 'cyan' },
-              { label: 'Projects', value: '5+ Built', color: 'amber' },
-              { label: 'Certifications', value: '20+ Earned', color: 'green' },
+              { label: 'Projects', value: 'AI & Ethical Hacking', color: 'amber' },
+              { label: 'Certifications', value: '21+ Earned', color: 'green' },
             ].map((item, i) => (
               <motion.div
                 key={item.label}

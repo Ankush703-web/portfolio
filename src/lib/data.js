@@ -174,14 +174,14 @@ export const certifications = [
   { name: "AI/ML for Geodata Analysis", issuer: "IIRS-ISRO", type: "ai" },
   { name: "Cybersecurity Certification", issuer: "IIRS-ISRO", type: "security" },
   { name: "AWS Solutions Architecture Virtual Experience", issuer: "AWS", type: "cloud" },
-  { name: "Application Security Analyst", issuer: "Industry", type: "security" },
+  { name: "Application Security Analyst", issuer: "Relience", type: "security" },
   { name: "Computer Vision Certification", issuer: "Infosys Springboard", type: "ai" },
   { name: "Deep Learning Fundamentals", issuer: "Industry", type: "ai" },
-  { name: "NLP Certification", issuer: "Industry", type: "ai" },
+  { name: "NLP Certification", issuer: "Infosys", type: "ai" },
   { name: "Machine Learning with Python", issuer: "Industry", type: "ai" },
   { name: "Tata Group Cybersecurity Virtual Experience", issuer: "Tata Group", type: "security" },
   { name: "JPMorgan Chase Cybersecurity Virtual Experience", issuer: "JPMorgan Chase", type: "security" },
-  { name: "Ethical Hacking Essentials", issuer: "Industry", type: "security" },
+  { name: "Ethical Hacking Essentials", issuer: "CISCO", type: "security" },
   { name: "CDAC IoT Certification", issuer: "CDAC", type: "iot" },
   { name: "Cloud Computing Certification", issuer: "Industry", type: "cloud" },
   { name: "Data Science Foundations", issuer: "Industry", type: "ai" },
@@ -190,7 +190,7 @@ export const certifications = [
   { name: "SQL and Database Management", issuer: "Industry", type: "dev" },
   { name: "Python Programming", issuer: "GeeksForGeeks", type: "dev" },
   { name: "Robotic Process Automation", issuer: "Infosys", type: "ai" },
-  { name: "Android App Development", issuer: "Industry", type: "dev" },
+  { name: "Android App Development", issuer: "Govt. college of Arts,Science and commerce Quepem Goa", type: "dev" },
   { name: "AI Tools Workshop Certification", issuer: "Be10X", type: "webinar" },
 ];
 
@@ -214,7 +214,7 @@ export const achievements = [
 
 export const terminalLines = [
   { delay: 0, text: "$ whoami", type: "cmd" },
-  { delay: 400, text: "ankush_naik :: ai_engineer & ethical_hacker", type: "output" },
+  { delay: 400, text: "ankush_naik :: ai_scientist & ethical_hacker", type: "output" },
   { delay: 900, text: "$ cat /etc/skills", type: "cmd" },
   { delay: 1300, text: "[AI] Deep Learning · Computer Vision · NLP · GenAI", type: "output" },
   { delay: 1600, text: "[SEC] OWASP · Pen Testing · Vulnerability Assessment", type: "output" },
