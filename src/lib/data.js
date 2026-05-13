@@ -191,6 +191,7 @@ export const certifications = [
   { name: "Python Programming", issuer: "GeeksForGeeks", type: "dev" },
   { name: "Robotic Process Automation", issuer: "Infosys", type: "ai" },
   { name: "Android App Development", issuer: "Industry", type: "dev" },
+  { name: "AI Tools Workshop Certification", issuer: "Be10X", type: "webinar" },
 ];
 
 export const achievements = [
@@ -205,7 +206,7 @@ export const achievements = [
     year: "2025",
   },
   {
-    title: "20+ Industry Certifications",
+    title: "21+ Industry Certifications",
     desc: "Across AI, Cybersecurity, Cloud, Data Science, and Development",
     year: "2024—2026",
   },
