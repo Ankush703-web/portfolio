@@ -220,6 +220,6 @@ export const terminalLines = [
   { delay: 1600, text: "[SEC] OWASP · Pen Testing · Vulnerability Assessment", type: "output" },
   { delay: 2000, text: "$ nmap --status current", type: "cmd" },
   { delay: 2400, text: "M.Sc. Artificial Intelligence @ Goa University ········ [ACTIVE]", type: "status" },
-  { delay: 2700, text: "Ethical Hacker Intern @ InlignX Global ················· [ACTIVE]", type: "status" },
+  { delay: 2700, text: "Ethical Hacker Intern @ InlignX Global ················· [Recently Completed]", type: "status" },
   { delay: 3100, text: "$ _", type: "cursor" },
 ];

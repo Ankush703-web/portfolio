@@ -20,7 +20,7 @@ export default function Projects() {
     <section id="projects" className="py-24 px-4 sm:px-6 max-w-6xl mx-auto">
       <SectionHeader
         label="03 / projects"
-        title="Project Index"
+        title="Best Projects Index"
         subtitle="$ ls -la ~/projects/ --sort=date"
       />
 

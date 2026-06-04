@@ -116,7 +116,7 @@ export default function Contact() {
             Open to Opportunities
           </h3>
           <p className="font-mono text-sm text-terminal-green/60 leading-relaxed mb-6">
-            Currently pursuing M.Sc. in Artificial Intelligence at Goa University while working as an Ethical Hacker Intern. Available for research collaborations, AI/ML projects, and cybersecurity consultations.
+            Currently pursuing M.Sc. in Artificial Intelligence at Goa University and has also been as an Ethical Hacker Intern. Available for research collaborations, AI/ML projects, and cybersecurity consultations.
           </p>
 
           <div className="space-y-3">
