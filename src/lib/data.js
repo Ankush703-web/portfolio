@@ -1,4 +1,4 @@
-export const personal = {
+﻿export const personal = {
   name: "Ankush Uday Naik",
   title: "AI Engineer & Cybersecurity Specialist",
   email: "naikankush067@gmail.com",
@@ -7,7 +7,7 @@ export const personal = {
   linkedin: "https://linkedin.com/in/ankush-naik-7b0b99286",
   location: "Goa, India",
   summary:
-    "AI and Cybersecurity enthusiast pursuing an M.Sc. in Artificial Intelligence at Goa University. Hands-on experience in Machine Learning, Deep Learning, Computer Vision, IoT, and Application Security. Built intelligent systems for environmental monitoring, healthcare optimization, and materials discovery. Certified by AICTE, ISRO, AWS, Infosys, JPMorgan Chase, Tata Group, and CDAC.",
+    "AI and Cybersecurity enthusiast pursuing M.Sc. in Artificial Intelligence at Goa University. Hands-on experience in Machine Learning, Deep Learning, Computer Vision, IoT, and Application Security. Built intelligent systems for environmental monitoring, healthcare optimization, and materials discovery. Certified by AICTE, ISRO, AWS, Infosys, JPMorgan Chase, Tata Group, and CDAC.",
 };
 
 export const education = [
